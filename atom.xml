@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>岩雀</title>
+  
+  <subtitle>岩雀</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://stoneweaver.top/"/>
+  <updated>2020-04-16T06:10:16.505Z</updated>
+  <id>http://stoneweaver.top/</id>
+  
+  <author>
+    <name>岩雀</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://stoneweaver.top/2020/04/16/hello-world/"/>
+    <id>http://stoneweaver.top/2020/04/16/hello-world/</id>
+    <published>2020-04-16T05:45:38.986Z</published>
+    <updated>2020-04-16T06:10:16.505Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;h2 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
